@@ -43,7 +43,7 @@
 
 ## Change Log
 
-- [CHANGELOG.MD](https://github.com/syki66/filename-to-timestamp/blob/master/CHANGELOG.MD)
+- [CHANGELOG.MD](https://github.com/syki66/filename-to-filedate/blob/master/CHANGELOG.MD)
 
 ---
 
